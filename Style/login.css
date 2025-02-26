@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    margin-top: 105px;
+}
+
+body {
+    background-image: url("../img/Simbolo-do-autismo-horizontal\ 1.png");
+    background-size: cover;
+    margin: 0;
+    border: 0;
+}
+
+.login-container {
+    margin: auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 735px;
+    height: 361px;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    
+}
+
+.Senha{
+    margin-top: 50px;
+}
+.caixa{
+    border: 0;
+    background-color: #BCBABA;
+    opacity: 34%;
+    border-radius: 20px;
+    height: 55px;
+    width: 98%;
+}
+.usuario1{
+   padding: auto;
+}
+.entrar{
+    width: 100%;
+    max-width: 182px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 35px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 55px;
+    margin-left: 65%;
+}
